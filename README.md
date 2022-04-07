@@ -17,6 +17,7 @@
   <img align="center" alt="Andressa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Andressa-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
   <img align="center" alt="Andressa-Salesforce" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/salesforce/salesforce-plain.svg">
+<img align="center" alt="Andressa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Andressa-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="right" alt="Andressa-Gif" height="150" style="border-radius:50px;"     src="https://cdn.discordapp.com/attachments/813549347924869173/960537202377502730/Webp.net-gifmaker.gif">
 </div>
