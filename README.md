@@ -5,8 +5,8 @@
 <div align="center">
   <a href="https://github.com/AndressaBocz"> 
 
-  <img height="180em" img width="49%"src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaBocz&theme=cobalt&line_height=40&hide=css"/> </a>
-  <img height="180em" img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaBocz&layout=compact&langs_count=7&theme=cobalt"/>
+  <img height="180em" img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaBocz&theme=cobalt&line_height=40&hide=css"/> </a>
+  <img height="180em" img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaBocz&layout=compact&langs_count=7&theme=cobalt"/> </a>
 </div>
  
  <div style="display: inline_block"><br>
