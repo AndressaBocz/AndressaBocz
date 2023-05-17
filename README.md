@@ -3,7 +3,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/AndressaBocz"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaBoczM&theme=react&line_height=40&hide=css"/> </a>
+  <a href="https://github.com/AndressaBocz"> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AndressaBocz&theme=react&line_height=40&hide=css"/> </a>
   <img height="180em" img width="49%" src="https://github-readme-stats.vercel.app/api?username=AndressaBocz&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
   <img height="180em" img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaBocz&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
