@@ -1,5 +1,5 @@
 <p align="left"> 
-🌱 Oi! Meu nome é Andressa Bocz. Atualmente sou <strong>Salesforce Developer</strong> mas pretendo seguir a área de <strong>Segurança da Informação</strong>... Gosto tanto de <strong>front-end</strong> quanto <strong>back-end</strong>.
+🌱 Oi! Meu nome é Andressa. Atualmente sou <strong>Salesforce Application Developer</strong> mas pretendo seguir a área de <strong>Segurança da Informação</strong>... Gosto tanto de <strong>front-end</strong> quanto de<strong>back-end</strong>.
 </p>
 
 <div align="center">
