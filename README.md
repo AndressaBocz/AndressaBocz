@@ -83,7 +83,7 @@ Se quiser saber com mais detalhes sobre experiências, educação e certificaç�
    
 
 <a href="https://github.com/AndressaBocz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=algolia&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaBocz&theme=algolia&hide_langs_below=1" />
 </a>
     
   
