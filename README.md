@@ -63,7 +63,7 @@ Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Javascript`, `Copado`, `
 <br/>
 <br/>
 
-Se quiser saber com mais detalhes sobre experiências, educação e certificação, é só me contatar em algum desses canais! 🫡⤵️
+Se quiser saber com mais detalhes sobre experiências, educação e certificação, você pode abrir meu cv pelo link na minha bio! Ou se preferir, é só me contatar em algum desses canais! 🫡⤵️
 
  <div> 
 
