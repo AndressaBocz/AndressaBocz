@@ -3,7 +3,7 @@
 
 ### Oi! Meu nome é Andressa! 👋
 
-Atualmente sou <strong>Salesforce Application Developer</strong> mas pretendo seguir a área de <strong>Segurança da Informação</strong>... Gosto tanto de <strong>front-end</strong> quanto de <strong>back-end</strong>!.
+Tenho 21 anos e atualmente sou <strong>Salesforce Application Developer</strong> mas pretendo seguir a área de <strong>Segurança da Informação</strong>... Gosto tanto de <strong>front-end</strong> quanto de <strong>back-end</strong>!
 
 
 <img align="right" width="372" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -37,7 +37,7 @@ object **Bocz** {
 -->
 
 ### Experiência de trabalho
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+Abaixo você encontrará um pouquinho sobre minha jornada profissional até o momento:
 
 [<img align="left" height="94px" width="94px" alt="DeskManager" src="https://pbs.twimg.com/profile_images/1184211974030348289/Rzo4QRYG_400x400.jpg"/>](https://deskmanager.com.br)
 
@@ -62,7 +62,7 @@ Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Javascript`, `Copado`, `
 <br/>
 <br/>
 
-Caso queira uma descrição mais detalhada sobre minha experiência de trabalho, educação e certificação, é só me contatar abaixo! 🫡⤵️
+Se quiser saber com mais detalhes sobre experiências, educação e certificação, é só me contatar em algum desses canais! 🫡⤵️
 
  <div> 
 
@@ -71,15 +71,19 @@ Caso queira uma descrição mais detalhada sobre minha experiência de trabalho,
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
   <a align="center" href="https://api.whatsapp.com/send?phone=5511986464406&text=Oi!%20Tudo%20bem?%20Peguei%20seu%20contato%20pelo%20GitHub!%20:)" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white"/></a>
 
   <a align="center" href="https://br.linkedin.com/in/andressa-bocz" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 
   <a align="center" href="https://instagram.com/_boczz" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_boczz/"/>     </a>
 </p>  
    
+
+<a href="https://github.com/AndressaBocz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaswerts&theme=algolia&hide_langs_below=1" />
+</a>
     
   
    ![Snake animation](https://github.com/AndressaBocz/AndressaBocz/blob/output/github-contribution-grid-snake.svg)
