@@ -37,7 +37,7 @@ object **Bocz** {
 </div>
 -->
 
-### Experiência de trabalho
+### Experiência de trabalho 🤓
 Abaixo você encontrará um pouquinho sobre minha jornada profissional até o momento:
 
 [<img align="left" height="94px" width="94px" alt="DeskManager" src="https://pbs.twimg.com/profile_images/1184211974030348289/Rzo4QRYG_400x400.jpg"/>](https://deskmanager.com.br)
