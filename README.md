@@ -13,15 +13,15 @@ object **Bocz** {
  val name = "Andressa Bocz"
  val occupation area = "Developer", "Analyst"
  
- val primarySkillset = "ALGUMAS HABILIDADES"
- val languages = listOf("Java", "Javascript", "Apex", "HTML", "CSS", "PHP", 
- "SQL", "C#") 
+ val frameworks = "Visual Studio", "IntelliJ", "Ionic", "Insomnia"
+ val languages = listOf("Java", "Javascript", "Apex", "HTML",
+ "CSS", "PHP", "SQL", "C#") 
 
 }
 ```
 
 ##
- 
+<!-- 
  <div style="display: inline_block"><br>
   <img align="center" alt="Andressa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
   <img align="center" alt="Andressa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg">
@@ -34,6 +34,7 @@ object **Bocz** {
 <img align="center" alt="Andressa-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Andressa-Arduino" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
 </div>
+-->
 
 ### Experiência de trabalho
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
