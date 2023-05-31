@@ -13,7 +13,7 @@ object **Bocz** {
  val name = "Andressa Bocz"
  val occupation area = "Developer", "Analyst"
  
- val frameworks = "Visual Studio", "IntelliJ", "Ionic", "Insomnia"
+ val frameworks = "Visual Studio", "IntelliJ", "Ionic", "Insomnia", "Eclipse"
  val languages = listOf("Java", "Javascript", "Apex", "HTML",
  "CSS", "PHP", "SQL", "C#") 
 
