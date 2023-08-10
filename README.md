@@ -40,14 +40,14 @@ object **Bocz** {
 ### Experiência de trabalho 🤓
 Abaixo você encontrará um pouquinho sobre minha jornada profissional até o momento:
 
-[<img align="left" height="94px" width="94px" alt="DeskManager" src="https://pbs.twimg.com/profile_images/1184211974030348289/Rzo4QRYG_400x400.jpg"/>](https://deskmanager.com.br)
+[<img align="left" height="94px" width="94px" alt="DeskManager" src="https://play-lh.googleusercontent.com/NxfQ8w1Oae8GLMcg6669WYz5ZlKxV4X7GrvgXnmYCuQKUwm_Osxnx5_n5Xb74Z4qCI4"/>](https://deskmanager.com.br)
 
 **Suporte** \
 [**Desk Manager Software**](https://deskmanager.com.br) • Estágio \
 Linguagens & Tecnologias: `Help Desk`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://pbs.twimg.com/profile_images/1493931757456011269/Je9rzV8w_400x400.jpg"/>]([https://www.ibm.com/](https://www.ibm.com/))
+[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>]([https://www.ibm.com/](https://www.ibm.com/))
 
 **GBS Associate** \
 [**IBM Brasil**](https://www.ibm.com/) • Estágio \
@@ -55,7 +55,7 @@ Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `JavaScript`, `HTML`, `CS
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://pbs.twimg.com/profile_images/1493931757456011269/Je9rzV8w_400x400.jpg"/>]([https://www.ibm.com/](https://www.ibm.com/))
+[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>]([https://www.ibm.com/](https://www.ibm.com/))
 
 **Application Developer** \
 [**IBM Brasil**](https://www.ibm.com/) • Full-Time \
