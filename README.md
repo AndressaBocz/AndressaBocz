@@ -47,14 +47,14 @@ Abaixo você encontrará um pouquinho sobre minha jornada profissional até o mo
 Linguagens & Tecnologias: `Help Desk`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>]([https://www.ibm.com/](https://www.ibm.com/))
+[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg"/>]([https://www.ibm.com/](https://www.ibm.com/))
 **GBS Associate** \
 [**IBM Brasil**](https://www.ibm.com/) • Estágio \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `JavaScript`, `HTML`, `CSS`,\
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>]([https://www.ibm.c](https://www.ibm.com/))
+[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg"/>]([https://www.ibm.c](https://www.ibm.com/))
 **Application Developer** \
 [**IBM Brasil**](https://www.ibm.com/) • Full-Time \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Javascript`, `Copado`, `HTML`, `CSS`, `Vlocity`\
