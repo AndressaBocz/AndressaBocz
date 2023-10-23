@@ -48,19 +48,25 @@ Linguagens & Tecnologias: `Help Desk`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>]([https://www.ibm.com/](https://www.ibm.com/))
-
 **GBS Associate** \
 [**IBM Brasil**](https://www.ibm.com/) • Estágio \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `JavaScript`, `HTML`, `CSS`,\
 <br/>
 
 
-[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>]([https://www.ibm.com/](https://www.ibm.com/))
-
+[<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://logospng.org/download/ibm/logo-ibm-2048.png"/>]([https://www.ibm.c](https://www.ibm.com/))
 **Application Developer** \
 [**IBM Brasil**](https://www.ibm.com/) • Full-Time \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Javascript`, `Copado`, `HTML`, `CSS`, `Vlocity`\
 <br/>
+
+[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://www.sindpdpb.org.br/public/uploads/noticias/745028d1d3da920fdf74d05a29bd0ee0.jpeg"/>]([https://www.indracompany.com/pt-br/](https://www.indracompany.com/pt-br/))
+**Analista Desenvolvedor** \
+[**Indra Company**](https://www.indracompany.com/pt-br/) • Full-Time \
+Linguagens & Tecnologias: `Salesforce`, `Vlocity`, `OmniStudio`, `JavaScript`, `HTML`, `CSS`,\
+<br/>
+
+
 <br/>
 
 Se quiser saber com mais detalhes sobre experiências, educação e certificação, você pode abrir meu cv pelo link na minha bio! Ou se preferir, é só me contatar em algum desses canais! 🫡⤵️
