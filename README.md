@@ -69,18 +69,15 @@ Linguagens & Tecnologias: `Salesforce`, `Vlocity`, `OmniStudio`, `JavaScript`, `
 
 <br/>
 
-Se quiser saber com mais detalhes sobre experiências, educação e certificação, você pode abrir meu cv pelo link na minha bio! Ou se preferir, é só me contatar em algum desses canais! 🫡⤵️
+Se quiser saber com mais detalhes sobre experiências, educação e certificação, você pode abrir meu cv pelo link na minha bio! Ou se preferir, é só me contatar! 🫡⤵️
 
  <div> 
 
 <p align="left">
   <a align="center" href="https://br.linkedin.com/in/andressa-bocz" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
-
-  <a align="center" href="https://instagram.com/_boczz" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/_boczz/"/>     </a>
 </p>  
-   
+
 
 <a href="https://github.com/AndressaBocz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaBocz&theme=algolia&hide_langs_below=1" />
