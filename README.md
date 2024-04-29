@@ -66,6 +66,12 @@ Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Javascript`, `Copado`, `
 Linguagens & Tecnologias: `Salesforce`, `Vlocity`, `OmniStudio`, `JavaScript`, `HTML`, `CSS`,\
 <br/>
 
+[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEW4TZuWhTAGYfsvNaT5MShmOAPA0V6D1BBpixjzV4zA&s"/>]([https://www.portoseguro.com.br](https://www.portoseguro.com.br))
+**Engenheira de Software** \
+[**Porto**](https://www.portoseguro.com.br) • Full-Time \
+Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Postman`, `API`, `HTML`, `CSS`, `Vlocity`\
+<br/>
+
 
 <br/>
 
