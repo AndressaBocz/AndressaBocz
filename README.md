@@ -83,15 +83,6 @@ Se quiser saber com mais detalhes sobre experiências, educação e certificaç�
   <a align="center" href="https://br.linkedin.com/in/andressa-bocz" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" /></a>
 </p>  
-
-
-<a href="https://github.com/AndressaBocz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndressaBocz&theme=algolia&hide_langs_below=1" />
-</a>
-    
-  
-   ![Snake animation](https://github.com/AndressaBocz/AndressaBocz/blob/output/github-contribution-grid-snake.svg)
-
   
 </div>
 
