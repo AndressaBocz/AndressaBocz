@@ -60,13 +60,13 @@ Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `JavaScript`, `HTML`, `CS
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Javascript`, `Copado`, `HTML`, `CSS`, `Vlocity`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://www.sindpdpb.org.br/public/uploads/noticias/745028d1d3da920fdf74d05a29bd0ee0.jpeg"/>]([https://www.indracompany.com/pt-br/)
+[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://www.sindpdpb.org.br/public/uploads/noticias/745028d1d3da920fdf74d05a29bd0ee0.jpeg"/>](https://www.indracompany.com/pt-br/)
 **Analista Desenvolvedor** \
 [**Indra Company**](https://www.indracompany.com/pt-br/) • Full-Time \
 Linguagens & Tecnologias: `Salesforce`, `Vlocity`, `OmniStudio`, `JavaScript`, `HTML`, `CSS`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEW4TZuWhTAGYfsvNaT5MShmOAPA0V6D1BBpixjzV4zA&s"/>]([https://www.portoseguro.com.br)
+[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEW4TZuWhTAGYfsvNaT5MShmOAPA0V6D1BBpixjzV4zA&s"/>](https://www.portoseguro.com.br)
 **Engenheira de Software** \
 [**Porto**](https://www.portoseguro.com.br) • Full-Time \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Postman`, `API`, `HTML`, `CSS`, `Vlocity`, `JavaScript`\
