@@ -50,7 +50,7 @@ Linguagens & Tecnologias: `Help Desk`\
 [<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg"/>]([https://www.ibm.com/](https://www.ibm.com/))
 **GBS Associate** \
 [**IBM Brasil**](https://www.ibm.com/) • Estágio \
-Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `JavaScript`, `HTML`, `CSS`,\
+Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `JavaScript`, `HTML`, `CSS`\
 <br/>
 
 
