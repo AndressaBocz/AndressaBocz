@@ -40,15 +40,15 @@ object **Bocz** {
 ### Experiência de trabalho 🤓
 Abaixo você encontrará um pouquinho sobre minha jornada profissional até o momento:
 
-[<img align="left" height="94px" width="94px" alt="DeskManager" src="https://play-lh.googleusercontent.com/NxfQ8w1Oae8GLMcg6669WYz5ZlKxV4X7GrvgXnmYCuQKUwm_Osxnx5_n5Xb74Z4qCI4"/>](https://deskmanager.com.br)
+[<img align="left" height="94px" width="94px" alt="DeskManagerLogo" src="https://play-lh.googleusercontent.com/NxfQ8w1Oae8GLMcg6669WYz5ZlKxV4X7GrvgXnmYCuQKUwm_Osxnx5_n5Xb74Z4qCI4"/>](https://deskmanager.com.br)
 **Suporte** \
-[**Desk Manager Software**](https://deskmanager.com.br) • Estágio \
+[**Desk Manager Software**](https://deskmanager.com.br) • Intern \
 Linguagens & Tecnologias: `Help Desk`\
 <br/>
 
 [<img align="left" height="94px" width="94px" alt="IBMLogo" src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg"/>](https://www.ibm.com/)
 **GBS Associate** \
-[**IBM Brasil**](https://www.ibm.com/) • Estágio \
+[**IBM Brasil**](https://www.ibm.com/) • Intern \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `JavaScript`, `HTML`, `CSS`\
 <br/>
 
@@ -65,13 +65,13 @@ Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Javascript`, `Copado`, `
 Linguagens & Tecnologias: `Salesforce`, `Vlocity`, `OmniStudio`, `JavaScript`, `HTML`, `CSS`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEW4TZuWhTAGYfsvNaT5MShmOAPA0V6D1BBpixjzV4zA&s"/>](https://www.portoseguro.com.br)
+[<img align="left" height="94px" width="94px" alt="PortoLogo" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEW4TZuWhTAGYfsvNaT5MShmOAPA0V6D1BBpixjzV4zA&s"/>](https://www.portoseguro.com.br)
 **Engenheira de Software** \
 [**Porto**](https://www.portoseguro.com.br) • Full-Time \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Postman`, `API`, `HTML`, `CSS`, `Vlocity`, `JavaScript`\
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://imgs.search.brave.com/fPufSJLoM4_aEPIzTbVhhlc0AJKSsJrvs-DGFlKakUc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI1L01pY3Jvc29m/dF9pY29uLnN2Zw"/>](https://www.microsoft.com/)
+[<img align="left" height="94px" width="94px" alt="MicrosoftLogo" src="https://imgs.search.brave.com/vsJDWHXIUAnm-hEs94E9FwrtMxAdvn0iKKEb44YdUpM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9taWNyb3Nv/ZnQtaWNvbi0xMDI0/eDEwMjQtNXcyNmRy/YjYucG5n"/>](https://www.microsoft.com/)
 **Cloud Solution Architect** \
 [**Porto**](https://www.microsoft.com/) • Full-Time \
 Linguagens & Tecnologias: `Azure`, `IA`, `Cloud`, `Security`\
@@ -80,7 +80,7 @@ Linguagens & Tecnologias: `Azure`, `IA`, `Cloud`, `Security`\
 
 <br/>
 
-Se quiser saber com mais detalhes sobre experiências, educação e certificação, você pode abrir meu cv pelo link na minha bio! Ou se preferir, é só me contatar! 🫡⤵️
+Se quiser saber mais detalhes sobre minhas experiências, educação ou certificação, entre em contato comigo! 🫡⤵️
 
  <div> 
 
