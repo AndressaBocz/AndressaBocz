@@ -73,7 +73,7 @@ Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Postman`, `API`, `HTML`,
 
 [<img align="left" height="94px" width="94px" alt="MicrosoftLogo" src="https://imgs.search.brave.com/vsJDWHXIUAnm-hEs94E9FwrtMxAdvn0iKKEb44YdUpM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9taWNyb3Nv/ZnQtaWNvbi0xMDI0/eDEwMjQtNXcyNmRy/YjYucG5n"/>](https://www.microsoft.com/)
 **Cloud Solution Architect** \
-[**Porto**](https://www.microsoft.com/) • Full-Time \
+[**Microsoft**](https://www.microsoft.com/) • Full-Time \
 Linguagens & Tecnologias: `Azure`, `IA`, `Cloud`, `Security`\
 <br/>
 
