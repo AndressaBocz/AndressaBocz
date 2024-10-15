@@ -3,7 +3,7 @@
 
 ### Oi! Meu nome é Andressa! 👋
 
-Tenho 22 anos e atualmente sou <strong>Software Engineer Salesforce</strong>... Pretendo seguir o ramo de programação <strong>Fullstack</strong> ou <strong>Cybersecurity</strong>!
+Tenho 22 anos e atualmente sou <strong>Cloud Solution Architect</strong>... Pretendo seguir a área de <strong>Cybersecurity</strong>!
 
 
 <img align="right" width="372" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
@@ -41,7 +41,6 @@ object **Bocz** {
 Abaixo você encontrará um pouquinho sobre minha jornada profissional até o momento:
 
 [<img align="left" height="94px" width="94px" alt="DeskManager" src="https://play-lh.googleusercontent.com/NxfQ8w1Oae8GLMcg6669WYz5ZlKxV4X7GrvgXnmYCuQKUwm_Osxnx5_n5Xb74Z4qCI4"/>](https://deskmanager.com.br)
-
 **Suporte** \
 [**Desk Manager Software**](https://deskmanager.com.br) • Estágio \
 Linguagens & Tecnologias: `Help Desk`\
@@ -70,6 +69,12 @@ Linguagens & Tecnologias: `Salesforce`, `Vlocity`, `OmniStudio`, `JavaScript`, `
 **Engenheira de Software** \
 [**Porto**](https://www.portoseguro.com.br) • Full-Time \
 Linguagens & Tecnologias: `Salesforce`, `Apex`, `SQL`, `Postman`, `API`, `HTML`, `CSS`, `Vlocity`, `JavaScript`\
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="IndraLogo" src="https://imgs.search.brave.com/fPufSJLoM4_aEPIzTbVhhlc0AJKSsJrvs-DGFlKakUc/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy8y/LzI1L01pY3Jvc29m/dF9pY29uLnN2Zw"/>](https://www.microsoft.com/)
+**Cloud Solution Architect** \
+[**Porto**](https://www.microsoft.com/) • Full-Time \
+Linguagens & Tecnologias: `Azure`, `IA`, `Cloud`, `Security`\
 <br/>
 
 
